@@ -55,5 +55,5 @@ python src/visualization.py
 The output will be a 3D solar system with planets revolving around the Sun. You can interactively zoom, pan, and rotate.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/veydantkatyal/solar-system-visualisation/blob/main/LICENSE).
 
